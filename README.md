@@ -5,5 +5,5 @@ Summary
 
 1. Introductory Level Questions
 
-Ex001 - Create a program that writes "Hello world" on the screen.
+Ex001 - Create a program that writes "Hello world" on the screen.\n
 Ex002 - Make a program that reads a person's name and displays a welcome message.
