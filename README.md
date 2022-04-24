@@ -73,4 +73,4 @@ Ex033 - Write a program that reads 3 numbers and shows which is the biggest and 
 
 Ex034 - Write a program that asks for an employee's salary and calculates the amount of his raise. For salaries greater than R$1,250.00, calculate a 10% increase. For salaries below or up to this amount, calculate a 15% increase.
 
-Ex035 - #Develop a program that reads the length of three lines, and tells the user whether or not they can form a triangle.
+Ex035 - Develop a program that reads the length of three lines, and tells the user whether or not they can form a triangle.
